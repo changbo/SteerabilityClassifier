@@ -1,8 +1,6 @@
 # SteerabilityClassifier
-# 
-Detect steerability of a two-qubit quantum state by machine learning
-
-# Author: Changbo Chen, changbo.chen@hotmail.com
+# Detect steerability of a two-qubit quantum state by support vector machine (SVM)
+# Contact information: Changbo Chen, changbo.chen@hotmail.com
 
 Relation between features and file name:
 
